@@ -1,5 +1,5 @@
 {
-    "name": "micromagicman/laravel-telegram-webapp",
+    "name": "aminprox/laravel-telegram-webapp",
     "description": "Laravel middleware for Telegram WebApp data validation",
     "type": "library",
     "license": "MIT",
